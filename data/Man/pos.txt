@@ -1,0 +1,122 @@
+Positive/Man1.png 3 210 112 96 145 322 120 66 101 121 130 34 59
+Positive/Man101.png 1 306 117 91 132
+Positive/Man103.png 1 175 113 78 141
+Positive/Man105.png 3 182 128 39 69 238 128 52 76 300 130 43 70
+Positive/Man107.png 2 23 132 49 65 392 117 86 150
+Positive/Man109.png 1 271 109 81 161
+Positive/Man11.png 1 302 107 103 154
+Positive/Man111.png 1 389 128 61 92
+Positive/Man113.png 1 59 122 78 108
+Positive/Man115.png 1 267 119 76 112
+Positive/Man117.png 1 241 125 41 87
+Positive/Man119.png 1 207 116 65 117
+Positive/Man121.png 1 260 112 75 148
+Positive/Man123.png 1 225 116 60 122
+Positive/Man125.png 1 207 119 68 108
+Positive/Man127.png 1 214 111 89 153
+Positive/Man129.png 2 121 132 47 68 210 134 38 55
+Positive/Man13.png 1 229 113 57 110
+Positive/Man131.png 2 169 130 52 73 267 126 59 90
+Positive/Man133.png 1 351 120 78 109
+Positive/Man135.png 2 175 123 54 93 296 123 65 95
+Positive/Man137.png 1 332 120 101 132
+Positive/Man139.png 1 147 124 49 87
+Positive/Man141.png 1 111 127 61 86
+Positive/Man143.png 1 194 111 80 141
+Positive/Man145.png 2 85 121 99 130 279 127 64 91
+Positive/Man147.png 3 60 136 32 42 256 130 43 73 394 124 73 105
+Positive/Man149.png 2 169 125 60 87 264 121 59 102
+Positive/Man15.png 1 153 104 113 169
+Positive/Man151.png 2 179 124 55 90 358 115 104 136
+Positive/Man153.png 3 72 121 61 121 287 128 44 71 372 128 52 79
+Positive/Man155.png 1 347 122 84 115
+Positive/Man157.png 1 176 121 56 96
+Positive/Man159.png 1 163 116 79 127
+Positive/Man161.png 2 200 119 72 113 340 116 93 128
+Positive/Man163.png 2 187 127 54 91 276 119 79 130
+Positive/Man165.png 1 198 123 57 110
+Positive/Man167.png 2 279 114 84 131 204 123 48 98
+Positive/Man169.png 2 189 126 54 94 63 123 71 111
+Positive/Man17.png 1 167 120 65 115
+Positive/Man171.png 1 307 116 87 137
+Positive/Man173.png 2 165 121 60 122 308 121 59 119
+Positive/Man175.png 2 111 124 62 98 217 127 47 78
+Positive/Man177.png 1 312 126 67 93
+Positive/Man179.png 2 162 122 55 104 294 122 59 98
+Positive/Man181.png 2 199 130 64 84 292 126 79 118
+Positive/Man183.png 2 151 113 101 146 300 121 56 102
+Positive/Man185.png 3 75 119 65 111 194 127 44 79 293 130 41 65
+Positive/Man187.png 3 98 123 64 88 220 124 65 92 388 115 102 131
+Positive/Man189.png 1 259 122 79 118
+Positive/Man19.png 3 105 116 71 115 209 122 62 97 300 123 75 107
+Positive/Man191.png 1 67 121 93 126
+Positive/Man193.png 1 144 117 92 134
+Positive/Man195.png 1 164 112 100 147
+Positive/Man197.png 1 210 111 80 140
+Positive/Man199.png 1 338 115 86 142
+Positive/Man201.png 1 240 124 66 101
+Positive/Man203.png 1 255 118 85 140
+Positive/Man205.png 1 188 121 54 111
+Positive/Man207.png 2 180 122 46 108 301 120 106 147
+Positive/Man209.png 1 117 121 68 128
+Positive/Man21.png 3 78 119 76 111 176 123 69 112 265 121 55 97
+Positive/Man211.png 1 159 127 56 111
+Positive/Man213.png 1 245 123 92 135
+Positive/Man215.png 2 111 126 57 100 222 122 66 116
+Positive/Man217.png 1 196 115 91 147
+Positive/Man219.png 1 154 119 75 115
+Positive/Man221.png 2 164 123 72 106 293 121 69 123
+Positive/Man223.png 3 117 130 42 66 203 129 39 73 308 122 53 102
+Positive/Man225.png 2 36 114 110 157 224 129 59 90
+Positive/Man227.png 1 219 116 86 135
+Positive/Man229.png 1 297 111 82 175
+Positive/Man23.png 3 106 124 63 106 186 128 50 81 268 128 54 81
+Positive/Man231.png 1 391 121 85 111
+Positive/Man235.png 1 376 110 89 141
+Positive/Man237.png 1 178 111 93 157
+Positive/Man239.png 1 210 110 95 151
+Positive/Man241.png 2 185 125 58 90 344 120 86 116
+Positive/Man243.png 1 65 114 98 137
+Positive/Man245.png 1 137 119 83 116
+Positive/Man25.png 3 234 131 39 62 295 131 46 69 341 128 60 79
+Positive/Man27.png 2 136 128 54 82 213 128 51 76
+Positive/Man29.png 2 226 127 59 78 297 124 57 88
+Positive/Man3.png 1 139 109 85 151
+Positive/Man31.png 2 105 122 93 133 241 123 90 132
+Positive/Man33.png 2 217 120 68 123 321 121 91 125
+Positive/Man35.png 2 99 131 36 55 355 115 77 143
+Positive/Man37.png 1 99 115 79 135
+Positive/Man39.png 1 187 114 106 153
+Positive/Man41.png 3 24 117 86 145 145 125 68 101 243 128 71 96
+Positive/Man43.png 1 170 106 105 159
+Positive/Man45.png 2 180 132 37 52 260 130 38 61
+Positive/Man47.png 2 233 130 27 60 313 134 36 50
+Positive/Man49.png 2 125 118 84 114 339 123 95 133
+Positive/Man5.png 1 206 129 69 88
+Positive/Man51.png 2 151 124 49 89 298 121 60 101
+Positive/Man53.png 2 26 119 66 106 431 129 51 63
+Positive/Man55.png 1 314 117 110 143
+Positive/Man57.png 2 166 120 50 102 285 106 71 157
+Positive/Man59.png 1 180 113 91 142
+Positive/Man61.png 1 46 117 88 131
+Positive/Man63.png 1 292 130 47 74
+Positive/Man65.png 1 123 110 99 151
+Positive/Man67.png 1 211 117 81 132
+Positive/Man69.png 1 199 118 94 140
+Positive/Man7.png 2 170 127 70 97 259 130 64 83
+Positive/Man71.png 1 254 114 82 143
+Positive/Man73.png 3 192 127 63 89 292 134 27 43 360 134 29 47
+Positive/Man75.png 2 226 128 52 76 299 128 45 74
+Positive/Man77.png 2 55 132 46 59 414 124 78 115
+Positive/Man79.png 2 147 118 103 161 47 136 35 44
+Positive/Man81.png 1 273 105 96 174
+Positive/Man83.png 1 346 116 109 143
+Positive/Man85.png 4 168 122 81 111 276 121 78 116 378 115 113 157 17 133 39 49
+Positive/Man87.png 1 132 123 57 114
+Positive/Man89.png 2 110 134 29 46 385 125 62 94
+Positive/Man9.png 1 228 115 92 133
+Positive/Man91.png 2 181 116 71 117 419 137 28 36
+Positive/Man93.png 1 363 108 90 151
+Positive/Man95.png 2 57 133 37 52 323 120 60 115
+Positive/Man97.png 1 147 120 71 115
+Positive/Man99.png 2 150 121 64 97 296 110 89 152
